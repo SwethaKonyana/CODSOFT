@@ -18,7 +18,7 @@ TASK 4: WEATHER FORECAST:-
 I developed this weather forecast application using python. This application involves retrieving weather data from an API and presenting it in a user-friendly format.
 The user need to enter the name of the city or a zip code, then it makes an API requests to retrieve weather data based on the users input, finally it displays the retrieved weather information to the user in a user-friendly format.
 
-TASK 5:-
+TASK 5: QUIZ GAME:-
 
 I developed this quiz game that asks users multiple -choice or fill-in-the blank questions on a specific topic. The game should keep track of scores, it provides feedback on correct/incorrect answers , and offer a variety of questions to make it challenging and engaging.
                           
