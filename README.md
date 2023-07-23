@@ -1,5 +1,8 @@
 # CODSOFT
-I have successfully completed 3 tasks provided by #CODSOFT i.e. simple calculator, password generator, weather forecast by using PYTHON languge.
+I have successfully completed 5 tasks provided by #CODSOFT i.e. To do list, simple calculator, password generator, weather forecast, quiz application by using PYTHON languge.
+TASK 1: TO-DO-LIST:-
+
+THIS TO-DO-LIST application is a useful project aims to create a command-line or GUI based aplication using python, allowing users to create, update and track their to-do-lists.
 
 TASK 2: CALCULATOR:-
 
@@ -14,4 +17,8 @@ TASK 4: WEATHER FORECAST:-
 
 I developed this weather forecast application using python. This application involves retrieving weather data from an API and presenting it in a user-friendly format.
 The user need to enter the name of the city or a zip code, then it makes an API requests to retrieve weather data based on the users input, finally it displays the retrieved weather information to the user in a user-friendly format.
+
+TASK 5:-
+
+I developed this quiz game that asks users multiple -choice or fill-in-the blank questions on a specific topic. The game should keep track of scores, it provides feedback on correct/incorrect answers , and offer a variety of questions to make it challenging and engaging.
                           
